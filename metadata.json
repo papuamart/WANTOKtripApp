@@ -1,0 +1,8 @@
+{
+  "name": "WANTOKTrip",
+  "description": "Papua New Guinea and Melanesia travel app for booking flights, hotels, tracking bookings, loyalty rewards, and payment proofs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
